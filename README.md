@@ -8,8 +8,8 @@ Este projeto foi desenvolvido com Vue.js, utilizei uma Api para pegar os persona
 ### Aprendizados 
 - Utilizar o Vue.Js
 - Componentizaçao com Vue.js
-- Vuex (Gerenciador de estado)
-- Requisições (Axios)
+- Vuex ( Gerenciador de estado)
+- Requisições ( Axios )
 - Pré-processador css (Less)
 - Responsividade 
 
@@ -20,3 +20,9 @@ Este projeto foi desenvolvido com Vue.js, utilizei uma Api para pegar os persona
 
 
 Nessa parte do projeto esta sendo feita outra requisição e cada personagem tem a cor da sua casa em Hogwarts.
+
+## Responsividade
+
+![Responsividade](https://github.com/CarlosBaiao/HarryPotterApi/blob/master/src/assets/projeto/responsividade.png?raw=true)
+
+O projeto é responsivo, o menu que é lateral para celular ele fica no topo e na horizontal, e os cards se encaixam perfeitamente. 
