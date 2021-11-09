@@ -3,12 +3,13 @@
 
 ![Projeto com requisição feita para Grifinória](https://github.com/CarlosBaiao/HarryPotterApi/blob/master/src/assets/projeto/projeto1.png?raw=true)
 
-Este projeto foi desenvolvido com Vue.js, utilizei uma Api para pegar os personagens e separar por categorias, e cada categoria tem sua classe especifica.
+Este projeto foi desenvolvido com Vue.js, utilizei uma Api para pegar os personagens e separar por categorias, e cada categoria tem sua classe especifica. E usando o vuex para gerenciar os estados e fazer uma nova requisição quando o usuário trocar de categoria.
 
 ### Aprendizados 
 - Utilizar o Vue.Js
 - Componentizaçao com Vue.js
-- Requisições ( Axios )
+- Vuex (Gerenciador de estado)
+- Requisições (Axios)
 - Pré-processador css (Less)
 - Responsividade 
 
