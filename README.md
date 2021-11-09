@@ -1,24 +1,21 @@
-# harrypotter
+# Projeto Harry Potter
 
-## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![Projeto com requisição feita para Grifinória](https://github.com/CarlosBaiao/HarryPotterApi/blob/master/src/assets/projeto/projeto1.png?raw=true)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+Este projeto foi desenvolvido com Vue.js, utilizei uma Api para pegar os personagens e separar por categorias, e cada categoria tem sua classe especifica.
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Aprendizados 
+- Utilizar o Vue.Js
+- Componentizaçao com Vue.js
+- Requisições ( Axios )
+- Pré-processador css (Less)
+- Responsividade 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Sobre o projeto
+
+![Outra requisição ](https://github.com/CarlosBaiao/HarryPotterApi/blob/master/src/assets/projeto/projeto2.png?raw=true)
+
+
+Nessa parte do projeto esta sendo feita outra requisição e cada personagem tem a cor da sua casa em Hogwarts.
