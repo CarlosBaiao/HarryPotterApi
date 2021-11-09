@@ -1,0 +1,416 @@
+
+
+{
+    "grifinoria":[
+        {
+          "name": "Minerva McGonagall",
+          "house": "Gryffindor",
+          "patronus": "Gato",
+          "actor": "Dame Maggie Smith",
+          "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg",
+          "director" : true
+
+        },
+        {
+          "name": "Harry Potter",
+          "house": "Gryffindor",
+          "patronus": "Veado",
+          "actor": "Daniel Radcliffe",
+          "image": "http://hp-api.herokuapp.com/images/harry.jpg",
+          "director" : false
+        },
+        {
+          "name": "Hermione Granger",
+          "house": "Gryffindor",
+          "patronus": "Lontra",
+          "actor": "Emma Watson",
+          "image": "http://hp-api.herokuapp.com/images/hermione.jpeg",
+          "director" : false
+        },
+        {
+          "name": "Ronald Weasley",
+          "house": "Gryffindor",
+          "patronus": "Cachorro",
+          "actor": "Rupert Grint",
+          "image": "http://hp-api.herokuapp.com/images/ron.jpg",
+          "director" : false
+        },
+        {
+          "name": "Neville Longbottom",
+          "house": "Gryffindor",
+          "patronus": "Não corpóreo",
+          "actor": "Matthew Lewis",
+          "image": "http://hp-api.herokuapp.com/images/neville.jpg",
+          "director" : false
+        },
+        {
+          "name": "Ginny Weasley",
+          "house": "Gryffindor",
+          "patronus": "Cavalo",
+          "actor": "Bonnie Wright",
+          "image": "http://hp-api.herokuapp.com/images/ginny.jpg",
+          "director" : false
+        },
+        {
+          "name": "Fred Weasley",
+          "house": "Gryffindor",
+          "patronus": "Pega",
+          "actor": "James Phelps",
+          "image": "https://uploads.spiritfanfiction.com/fanfics/historias/202011/imagine-fred-weasley-21024464-161120201812.jpg",
+          "director" : false
+        },
+        {
+          "name": "George Weasley",
+          "house": "Gryffindor",
+          "patronus": "Pega",
+          "actor": "Oliver Phelps",
+          "image": "http://pm1.narvii.com/7822/558b0200d3569a8d7c86eaa14e33092232c02c71r1-480-691v2_00.jpg",
+          "director" : false
+        },
+        {
+            "name": "Dino Thomas",
+            "house": "Gryffindor",
+            "patronus": "Corpóreo",
+            "actor": "Alfred Enoch",
+            "image": "https://i.pinimg.com/736x/18/a2/b9/18a2b960655e94e4e069b15b9100444f.jpg",
+            "director" : false
+          },
+          {
+            "name": "Lilá Brown",
+            "house": "Gryffindor",
+            "patronus": "Não-corpóreo",
+            "actor": "Jessie Cave",
+            "image": "https://br.web.img3.acsta.net/medias/nmedia/18/65/64/35/19136930.jpg",
+            "director" : false
+          },
+          {
+            "name": "Simas Finnigan",
+            "house": "Gryffindor",
+            "patronus": "Raposa",
+            "actor": "Devon Murray",
+            "image": "https://pipocamoderna.com.br/wp-content/uploads/2016/04/Devon-Murray-devon-murray-12022941-1400-1850.jpg",
+            "director" : false
+          },
+          {
+            "name": "Parvati Patil",
+            "house": "Gryffindor",
+            "patronus": "Incorpóreo",
+            "actor": "Shefali Chowdhury",
+            "image": "http://pm1.narvii.com/6296/cee17ab12bf123b007ffe0fe84e467a6a5b642bb_00.jpg",
+            "director" : false
+          }
+      ],
+      "sonserina": [
+        {
+          "name": "Severus Snape",
+          "house": "Slytherin",
+          "patronus": "Corça",
+          "actor": "Alan Rickman",
+          "image": "http://hp-api.herokuapp.com/images/snape.jpg",
+          "director": true
+        },
+        {
+          "name": "Draco Malfoy",
+          "house": "Slytherin",
+          "patronus": "Nenhum",
+          "actor": "Tom Felton",
+          "image": "http://hp-api.herokuapp.com/images/draco.jpg",
+          "director": false
+        },
+        {
+          "name": "Gregory Goyle",
+          "house": "Slytherin",
+          "patronus": "Nenhum",
+          "actor": "Joshua Herdman",
+          "image": "http://hp-api.herokuapp.com/images/goyle.jpg",
+          "director": false
+        },
+        {
+          "name": "Vicente Crabbe",
+          "house": "Slytherin",
+          "patronus": "Nenhum",
+          "actor": "Jamie Waylett",
+          "image": "http://2.bp.blogspot.com/-3R_RuOkKNXQ/TbMHeQeXgcI/AAAAAAAAAOQ/HL1kf16I8Lc/w1200-h630-p-k-no-nu/Vicente_crabbe.jpg",
+          "director" : false
+
+        },
+        {
+          "name": "Millicent Bulstrode",
+          "house": "Slytherin",
+          "patronus": "Nenhum",
+          "actor": "Helen Stuart",
+          "image": "http://pm1.narvii.com/6310/cbaf65efd0470d183c6f95b56defa5cefba63dc6_00.jpg",
+          "director": false
+        },
+        {
+          "name": "Theodore Nott",
+          "house": "Slytherin",
+          "patronus": "Nenhum",
+          "actor": "Bronson Webb",
+          "image": "https://i.pinimg.com/736x/aa/45/1e/aa451e7e340fe261249fb97d004a7f3f.jpg",
+          "director": false
+        },
+        {
+          "name": "Blaise Zabini",
+          "house": "Slytherin",
+          "patronus": "Nenhum",
+          "actor": "Louis Cordice",
+          "image": "https://i.pinimg.com/474x/e0/64/e6/e064e68405dab8d6b0c5475ae2660d28.jpg",
+          "director": false
+        },
+        {
+          "name": "Dafne Greengrass",
+          "house": "Slytherin",
+          "patronus": "Lobo",
+          "actor": "Dafne Greengrass",
+          "image": "http://pm1.narvii.com/6390/d5bfaf3888f531a17f01032ffa62cbbc46be8b75_00.jpg",
+          "director" : false
+
+        }
+      
+      ],
+      "lufalufa": [
+        {
+          "name": "Pomona Sprout",
+          "house": "Hufflepuff",
+          "patronus": "Incorpóreo",
+          "actor": "Miriam Margolyes",
+          "image": "https://pm1.narvii.com/6286/783dd8c73b7ed49b42f871ca27b1320887b513be_hq.jpg",
+          "director": true
+        },
+        {
+          "name": "Cedric Diggory",
+          "house": "Hufflepuff",
+          "patronus": "Nenhum",
+          "actor": "Robert Pattinson",
+          "image": "http://hp-api.herokuapp.com/images/cedric.png",
+          "director": false
+        },
+        {
+          "name": "Hannah Abbott",
+          "house": "Hufflepuff",
+          "patronus": "Não corpóreo",
+          "actor": "Charlotte Skeoch",
+          "image": "https://i.pinimg.com/474x/03/ae/be/03aebe4a0f9310e407d478b71c4f89ec.jpg",
+          "director": false
+        },
+        {
+          "name": "Susan Bones",
+          "house": "Hufflepuff",
+          "patronus": "Nenhum",
+          "actor": "Eleanor Columbus",
+          "image": "https://i.pinimg.com/originals/e5/6e/21/e56e2115d33c95f77563b2fb6731de8a.jpg",
+          "director": false
+        },
+        {
+          "name": "Justin Finch-Fletchley",
+          "house": "Hufflepuff",
+          "patronus": "Nenhum",
+          "actor": "Edward Randell",
+          "image": "https://i.pinimg.com/originals/cc/e9/14/cce914a981ce03a0db4334c6fe5dbb1d.png",
+          "director": false
+        },
+        {
+          "name": "Ernie Macmillan",
+          "house": "Hufflepuff",
+          "patronus": "Javali",
+          "actor": "Louis Doyle",
+          "image": "https://i.pinimg.com/originals/ed/37/c0/ed37c05b626854d58d3225decbdef53b.jpg",
+          "director": false
+        },
+        {
+          "name": "Eleanor Branstone",
+          "house": "Hufflepuff",
+          "patronus": "Nenhum",
+          "actor": "Eleanor Branstone",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4uRzi3bPaJM5K7dsqUvSSbhcE_FMohbDJZ91HG1bG7860wT1pmNJL8spuG2qy82QD_rk&usqp=CAU",
+          "director": false
+        },
+        {
+          "name": "Owen Cauldwell",
+          "house": "Hufflepuff",
+          "patronus": "Nenhum",
+          "actor": "Owen Cauldwell",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRblZP3AKv9eEH5RsWBnHocPc02kfQW2uukVItvfB-HuY3nAWf4AnQdoJ8eawFrPYfdJg&usqp=CAU",
+          "director": false
+        }
+       
+      ],
+      "corvinal": [
+        {
+          "name": "Fílio Flitwick",
+          "house": "Ravenclaw",
+          "patronus": "Incorpóreo",
+          "actor": "Warwick Davis",
+          "image": "http://1.bp.blogspot.com/-P2CyWVRlPQ0/WTtmO5qE4tI/AAAAAAAAAuQ/iCw53LX1TsEMFMWCju99qd9zjCBdvciRQCK4B/s1600/FiliusFlitwick_WB_F6_FlitwickSittingInGreatHall_Still_080615_Port.jpg",
+          "director": true
+        },
+        {
+          "name": "Cho Chang",
+          "house": "Ravenclaw",
+          "patronus": "Cisne",
+          "actor": "Katie Leung",
+          "image": "http://hp-api.herokuapp.com/images/cho.jpg",
+          "director": false
+        },
+        {
+          "name": "Luna Lovegood",
+          "house": "Ravenclaw",
+          "patronus": "Lebre",
+          "actor": "Evanna Lynch",
+          "image": "http://hp-api.herokuapp.com/images/luna.jpg",
+          "director": false
+        },
+        {
+          "name": "Mandy Brocklehurst",
+          "house": "Ravenclaw",
+          "patronus": "Nenhum",
+          "actor": "Christina Petrou",
+          "alive": true,
+          "image": "https://i.pinimg.com/originals/8a/a1/c1/8aa1c1c8a1ee8338bc171f0e9ca2921c.png",
+          "director": false
+        },
+        {
+          "name": "Padma Patil",
+          "house": "Ravenclaw",
+          "patronus": "Nenhum",
+          "actor": "Sharon Sandhu",
+          "image": "http://pm1.narvii.com/6790/21cc89f81056ce7103426aa55b95ae853d588db2v2_00.jpg",
+          "director": false
+        },
+        {
+          "name": "Lisa Turpin",
+          "house": "Ravenclaw",
+          "patronus": "Nenhum",
+          "actor": "Lisa Turpin",
+          "image": "https://i.pinimg.com/originals/d9/83/c6/d983c6e94a7114ab88c5e38c7b3df912.png",
+          "director": false
+        },
+        {
+          "name": "Penelope Clearwater",
+          "patronus": "Nenhum",
+          "actor": "Gemma Padley",
+          "image": "http://pm1.narvii.com/6295/adda058d6db54540fbeb112261bf3ebb24df9f1e_00.jpg",
+          "director": false
+        }
+      ],
+      "integrantes" : [
+        {
+          "name": "Minerva McGonagall",
+          "house": "Gryffindor",
+          "patronus": "Gato",
+          "actor": "Dame Maggie Smith",
+          "image": "http://hp-api.herokuapp.com/images/mcgonagall.jpg"
+        },
+        {
+          "name": "Severus Snape",
+          "house": "Slytherin",
+          "patronus": "Corça",
+          "actor": "Alan Rickman",
+          "image": "http://hp-api.herokuapp.com/images/snape.jpg"
+        },
+        {
+          "name": "Rubeus Hagrid",
+          "house": "Gryffindor",
+          "patronus": "Nenhum",
+          "actor": "Robbie Coltrane",
+          "image": "http://hp-api.herokuapp.com/images/hagrid.png"
+        },
+        {
+          "name": "Remus Lupin",
+          "house": "Gryffindor",
+          "patronus": "Lobo",
+          "actor": "David Thewlis",
+          "image": "http://hp-api.herokuapp.com/images/lupin.jpg"
+        },
+        {
+          "name": "Horace Slughorn",
+          "house": "Slytherin",
+          "patronus": "Não corpóreo",
+          "actor": "Jim Broadbent",
+          "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
+        },
+        {
+          "name": "Dolores Umbridge",
+          "house": "Slytherin",
+          "patronus": "Gato persa",
+          "actor": "Imelda Staunton",
+          "image": "http://hp-api.herokuapp.com/images/umbridge.jpg"
+        },
+        {
+          "name": "Mrs Norris",
+          "house": "Nenhuma",
+          "patronus": "Nenhum",
+          "actor": " Tommy the cats",
+          "alternate_actors": [
+            ""
+          ],
+          "alive": true,
+          "image": "http://hp-api.herokuapp.com/images/norris.JPG"
+        },
+        {
+          "name": "Argus Filch",
+          "house": "Nenhuma",
+          "patronus": "Nenhum",
+          "actor": "David Bradley",
+          "image": "http://hp-api.herokuapp.com/images/filch.jpg"
+        },
+        {
+          "name": "Alvo Dumbledore",
+          "house": "Gryffindor",
+          "patronus": "Fênix",
+          "actor": "Michael Gambon",
+          "image": "https://pm1.narvii.com/6916/707ba5f4032fb49aae248ae9c97e161f4247a581r1-700-894v2_hq.jpg"
+        },
+        {
+          "name": "Sirius Black",
+          "house": "Gryffindor",
+          "patronus": "Lebre",
+          "actor": "Gary Oldman",
+          "image": "http://hp-api.herokuapp.com/images/sirius.JPG"
+        },
+        {
+          "name": "Arthur Weasley",
+          "house": "Gryffindor",
+          "patronus": "Doninha",
+          "actor": "Mark Williams",
+          "image": "http://hp-api.herokuapp.com/images/arthur.jpg"
+        },
+        {
+          "name": "Bellatrix Lestrange",
+          "house": "Slytherin",
+          "patronus": "Nenhum",
+          "actor": "Helena Bonham ",
+          "image": "http://hp-api.herokuapp.com/images/bellatrix.jpg"
+        },
+        {
+          "name": "Lord Voldemort",
+          "house": "Slytherin",
+          "patronus": "Nenhum",
+          "actor": "Ralph Fiennes",
+          "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
+        },
+        {
+          "name": "Horace Slughorn",
+          "house": "Slytherin",
+          "patronus": "Incorpóreo",
+          "actor": "Jim Broadbent",
+          "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
+        },
+        {
+          "name": "Kingsley Shacklebolt",
+          "house": "Nenhuma",
+          "patronus": "Lince",
+          "actor": "George Harris",
+          "image": "http://hp-api.herokuapp.com/images/kingsley.jpg"
+        },
+        {
+          "name": "Lucius Malfoy",
+          "house": "Slytherin",
+          "patronus": "Cisne",
+          "actor": "Jason Isaacs",
+          "image": "http://hp-api.herokuapp.com/images/lucius.jpg"
+        }
+    
+      ]
+}
