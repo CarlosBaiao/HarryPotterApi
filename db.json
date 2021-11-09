@@ -288,6 +288,7 @@
         },
         {
           "name": "Penelope Clearwater",
+          "house": "Ravenclaw",
           "patronus": "Nenhum",
           "actor": "Gemma Padley",
           "image": "http://pm1.narvii.com/6295/adda058d6db54540fbeb112261bf3ebb24df9f1e_00.jpg",
@@ -391,11 +392,11 @@
           "image": "http://hp-api.herokuapp.com/images/voldemort.jpg"
         },
         {
-          "name": "Horace Slughorn",
-          "house": "Slytherin",
-          "patronus": "Incorpóreo",
-          "actor": "Jim Broadbent",
-          "image": "http://hp-api.herokuapp.com/images/slughorn.JPG"
+          "name": "Alastor Moody",
+          "house": "Nenhuma",
+          "patronus": "Nenhum",
+          "actor": "Brendan Gleeson",
+          "image": "http://4.bp.blogspot.com/-ocHkqXmmbko/TbBlYMrxisI/AAAAAAAAAM4/cqeVSrHz6qk/s320/images.jpg"
         },
         {
           "name": "Kingsley Shacklebolt",
